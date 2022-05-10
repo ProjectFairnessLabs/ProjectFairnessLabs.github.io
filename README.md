@@ -1,5 +1,3 @@
-![Image](https://i.imgur.com/aa8Emsh.gif)
-
 # Welcome to The Project Fairness Labs
 
 Welcome to our [Labs](https://github.com/ProjectFairnessLabs)! We didn't expect you to find us so easily, but rest assured, we do work on the FiveM server as well.
