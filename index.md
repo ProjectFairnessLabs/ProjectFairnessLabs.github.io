@@ -1,12 +1,12 @@
 ## Welcome to The Project Fairness Labs
 
-You can use the [editor on GitHub](https://github.com/ProjectFairnessLabs/ProjectFairnessLabs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to our [Labs](https://github.com/ProjectFairnessLabs)! We didn't expect you to find us so easily, but rest assured, we do work on the FiveM server as well.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is more of... a developer's grounds, so any server owner can use some of our tools (must give us credit, of course), and fork projects to fix them.
 
-### Markdown
+### Intent
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The intentions for **The Project Fairness Labs** is to make, fix and modify some of the best plugins and tools for our FiveM crowd, as well as other people for many other games that might use them.
 
 ```markdown
 Syntax highlighted code block
